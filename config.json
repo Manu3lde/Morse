@@ -1,0 +1,6 @@
+{
+  "freq": 750,
+  "dot_duration": 100,
+  "encryption": "substitution",
+  "output_format": "mp3"
+}
